@@ -1,16 +1,34 @@
-### Hi there 👋
+## Welcome to Jinlong He's Homepage
 
-<!--
-**Jinlong-He/jinlong-he** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Jinlong He
+> Doctor Candidate,
 
-Here are some ideas to get you started:
+> [State Key Laboratory of Computer Science,](http://lcs.ios.ac.cn/wiki/%E9%A6%96%E9%A1%B5)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> [Institute of Software,](http://www.iscas.ac.cn/)
+
+> [Chinese Academy of Sciences](http://www.cas.ac.cn/)
+
+### Research Interests:
+* Automated analysis and verification of Android programs 
+
+### Publications:
+* Jinlong He, [Taolue Chen,](http://www.dcs.bbk.ac.uk/~taolue/) Ping Wang,  [Zhilin Wu,](http://lcs.ios.ac.cn/~wuzl) [Jun Yan,](http://lcs.ios.ac.cn/~yanjun/) [Android Multitasking Mechanism: Formal Semantics and Static Analysis of Apps,](https://link.springer.com/chapter/10.1007/978-3-030-34175-6_15) APLAS 2019. 
+
+* [Taolue Chen,](http://www.dcs.bbk.ac.uk/~taolue/) Jinlong He, [Fu Song,](http://faculty.sist.shanghaitech.edu.cn/faculty/songfu/) Guozhen Wang, [Zhilin Wu,](http://lcs.ios.ac.cn/~wuzl) [Jun Yan,](http://lcs.ios.ac.cn/~yanjun/) [Android Stack Machine,](http://lcs.ios.ac.cn/~wuzl/pub/chswwy-cav18.pdf) CAV 2018. 
+
+### Education:
+- Doctor degree: 2017 - now
+  - [State Key Laboratory of Computer Science,](http://lcs.ios.ac.cn/wiki/%E9%A6%96%E9%A1%B5) [Institute of Software,](http://www.iscas.ac.cn/) [Chinese Academy of Sciences](http://www.cas.ac.cn/)
+  - Supervisor: Professor [Zhilin Wu](http://lcs.ios.ac.cn/~wuzl)
+ 
+- Bachelor degree: 2013 - 2017
+  - [School of Software Technology,](http://ssdut.dlut.edu.cn/) [Dalian University of Technology](https://www.dlut.edu.cn/)
+
+### Contact:
+* Mail:
+  hejl@ios.ac.cn
+  
+* Phone: 
+  +86 15640422198
+

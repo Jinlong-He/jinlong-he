@@ -13,6 +13,7 @@
 * Automated analysis and verification of Android programs 
 
 ### Publications:
+* [Taolue Chen,](http://www.dcs.bbk.ac.uk/~taolue/) [Matthew Hague,](https://www.cs.rhul.ac.uk/home/uxac009/) Jinlong He, Denghang Hu, [Anthony W. Lin,](https://anthonywlin.github.io) [Philipp Rümmer,](http://www.philipp.ruemmer.org) [Zhilin Wu,](http://lcs.ios.ac.cn/~wuzl) [A Decision Procedure for Path Feasibility of String Manipulating Programs with Integer Data Type ](http://lcs.ios.ac.cn/~wuzl/pub/chhhlrw-atva2020.pdf), ATVA 2020.
 * Jinlong He, [Taolue Chen,](http://www.dcs.bbk.ac.uk/~taolue/) Ping Wang,  [Zhilin Wu,](http://lcs.ios.ac.cn/~wuzl) [Jun Yan,](http://lcs.ios.ac.cn/~yanjun/) [Android Multitasking Mechanism: Formal Semantics and Static Analysis of Apps,](https://link.springer.com/chapter/10.1007/978-3-030-34175-6_15) APLAS 2019. 
 
 * [Taolue Chen,](http://www.dcs.bbk.ac.uk/~taolue/) Jinlong He, [Fu Song,](http://faculty.sist.shanghaitech.edu.cn/faculty/songfu/) Guozhen Wang, [Zhilin Wu,](http://lcs.ios.ac.cn/~wuzl) [Jun Yan,](http://lcs.ios.ac.cn/~yanjun/) [Android Stack Machine,](http://lcs.ios.ac.cn/~wuzl/pub/chswwy-cav18.pdf) CAV 2018. 

@@ -1,16 +1,16 @@
 ## Welcome to Jinlong He's Homepage
 
 # Jinlong He
-> Doctor Candidate,
+> postdoctoral fellow,
 
-> [State Key Laboratory of Computer Science,](http://lcs.ios.ac.cn/wiki/%E9%A6%96%E9%A1%B5)
+> [Technology Center of Software Engineering,](http://www.tcse.cn)
 
 > [Institute of Software,](http://www.iscas.ac.cn/)
 
 > [Chinese Academy of Sciences](http://www.cas.ac.cn/)
 
 ### Research Interests:
-* Automated analysis and verification of Android programs 
+* Automated verification, analysis and testing of Android programs 
 
 ### Publications:
 * Jinlong He, [Zhilin Wu,](http://lcs.ios.ac.cn/~wuzl), [Taolue Chen](http://www.dcs.bbk.ac.uk/~taolue/) [Formalization of Android Activity-Fragment Multitasking Mechanism and Static Analysis of Mobile Apps](https://dl.acm.org/doi/pdf/10.1145/3708562), Form. Asp. Comput. 2025.
@@ -20,7 +20,7 @@
 * [Taolue Chen,](http://www.dcs.bbk.ac.uk/~taolue/) Jinlong He, [Fu Song,](http://faculty.sist.shanghaitech.edu.cn/faculty/songfu/) Guozhen Wang, [Zhilin Wu,](http://lcs.ios.ac.cn/~wuzl) [Jun Yan,](http://lcs.ios.ac.cn/~yanjun/) [Android Stack Machine,](http://lcs.ios.ac.cn/~wuzl/pub/chswwy-cav18.pdf) CAV 2018. 
 
 ### Education:
-- Doctor degree: 2017 - now
+- Doctor degree: 2017 - 2025
   - [State Key Laboratory of Computer Science,](http://lcs.ios.ac.cn/wiki/%E9%A6%96%E9%A1%B5) [Institute of Software,](http://www.iscas.ac.cn/) [Chinese Academy of Sciences](http://www.cas.ac.cn/)
   - Supervisor: Professor [Zhilin Wu](http://lcs.ios.ac.cn/~wuzl)
  

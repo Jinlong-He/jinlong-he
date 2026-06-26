@@ -13,8 +13,8 @@
 * Automated verification, analysis and testing of Android programs 
 
 ### Publications:
-* Jinlong He, Binru Huang, Changwei Xia, Hengqin Yang, Jiwei Yan, Jun Yan [HACMony: automatically detecting hopping-related audio-stream conflict issues on HarmonyOS](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-50681-w), Front. Comput. Sci. 2027.
-* Jinlong He, [Zhilin Wu,](http://lcs.ios.ac.cn/~wuzl), [Taolue Chen](http://www.dcs.bbk.ac.uk/~taolue/) [Formalization of Android Activity-Fragment Multitasking Mechanism and Static Analysis of Mobile Apps](https://dl.acm.org/doi/pdf/10.1145/3708562), Form. Asp. Comput. 2025.
+* Jinlong He, Binru Huang, Changwei Xia, Hengqin Yang, Jiwei Yan, Jun Yan, [HACMony: automatically detecting hopping-related audio-stream conflict issues on HarmonyOS](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-50681-w), Front. Comput. Sci. 2027.
+* Jinlong He, [Zhilin Wu,](http://lcs.ios.ac.cn/~wuzl), [Taolue Chen](http://www.dcs.bbk.ac.uk/~taolue/), [Formalization of Android Activity-Fragment Multitasking Mechanism and Static Analysis of Mobile Apps](https://dl.acm.org/doi/pdf/10.1145/3708562), Form. Asp. Comput. 2025.
 * [Taolue Chen,](http://www.dcs.bbk.ac.uk/~taolue/) [Matthew Hague,](https://www.cs.rhul.ac.uk/home/uxac009/) Jinlong He, Denghang Hu, [Anthony W. Lin,](https://anthonywlin.github.io) [Philipp Rümmer,](http://www.philipp.ruemmer.org) [Zhilin Wu,](http://lcs.ios.ac.cn/~wuzl) [A Decision Procedure for Path Feasibility of String Manipulating Programs with Integer Data Type ](http://lcs.ios.ac.cn/~wuzl/pub/chhhlrw-atva2020.pdf), ATVA 2020.
 * Jinlong He, [Taolue Chen,](http://www.dcs.bbk.ac.uk/~taolue/) Ping Wang,  [Zhilin Wu,](http://lcs.ios.ac.cn/~wuzl) [Jun Yan,](http://lcs.ios.ac.cn/~yanjun/) [Android Multitasking Mechanism: Formal Semantics and Static Analysis of Apps,](https://link.springer.com/chapter/10.1007/978-3-030-34175-6_15) APLAS 2019. 
 
